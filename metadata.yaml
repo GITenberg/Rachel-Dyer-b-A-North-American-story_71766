@@ -1,5 +1,8 @@
 _repo: Rachel-Dyer-b-A-North-American-story_71766
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71766-h/images/cover.jpg
 creator:
   author:
     agent_name: Neal, John
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '37294'
     url: http://www.gutenberg.org/2009/agents/37294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71766#Rachel-Dyer-b-A-North-American-story
 gutenberg_issued: '2023-09-30'
 identifiers:
   gutenberg: '71766'
